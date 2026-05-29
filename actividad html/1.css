@@ -1,0 +1,26 @@
+#titulo{
+    color:blue;
+    background-color: aquamarine;
+}
+#titulo2{
+    background-color: rgb(81, 204, 136);
+}
+#titulo3{
+    background-color: rgb(140, 146, 240);
+}
+#titulo4{
+    background-color: rgb(250, 237, 59);
+}
+
+#comidasalada1{
+    color:  rgb(235, 144, 8);
+}
+#comidadulce1{
+    color: rgb(133, 8, 235);
+}
+#comidadulce{
+    background-color: rgb(133, 8, 235);
+}
+#comidasalada{
+    background-color: rgb(235, 144, 8);
+}
