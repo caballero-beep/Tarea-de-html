@@ -1,0 +1,46 @@
+/*comentario*/
+
+.contenedor1{
+    background-color: antiquewhite;
+    border: 2px solid; /*borde del cuadro*/
+    border-radius: 10px; /*esquinas redondeadaas*/
+    padding: 20px; /*espacio interno*/
+    margin: 20px /*altura*/ 0px /*izquierda derecha*/; /*separacion entre cuadros*/
+    /*
+    width: 100%; /*el cuadro utiliza el todo el espacio disponible(el max-width marca el ancho maximo)*/
+    /*max-width: 600px;*/ /*ancho maximo del cuadro*/
+    width: 600px; /*tambien puedo poner un ancho fijo directamente*/
+    box-shadow: 0 /*nivel de difuminado*/ 4px /*izquierda derecha*/ 8px /*altura*/ rgba(0, 0, 0, 0.616);
+    line-height: 1; /*evita que se muevan las letras al cambiar el tamaño del navegador*/
+}
+
+.contenedor2{
+    background-color: rgb(219, 250, 215);
+    border: 2px solid; /*borde del cuadro*/
+    border-radius: 10px; /*esquinas redondeadaas*/
+    padding: 20px; /*espacio interno*/
+    margin: 20px /*altura*/ 0px /*izquierda derecha*/; /*separacion entre cuadros*/
+    width: 600px;
+    box-shadow: 0 /*nivel de difuminado*/ 4px /*izquierda derecha*/ 8px /*altura*/ rgba(0, 0, 0, 0.616);
+    line-height: 1; /*evita que se muevan las letras al cambiar el tamaño del navegador*/
+}
+.contenedor3{
+    background-color: rgb(221, 215, 250);
+    border: 2px solid; /*borde del cuadro*/
+    border-radius: 10px; /*esquinas redondeadaas*/
+    padding: 20px; /*espacio interno*/
+    margin: 20px /*altura*/ 0px /*izquierda derecha*/; /*separacion entre cuadros*/
+    width: 600px; /*tambien puedo poner un ancho fijo directamente*/
+    box-shadow: 0 /*nivel de difuminado*/ 4px /*izquierda derecha*/ 8px /*altura*/ rgba(0, 0, 0, 0.616);
+    line-height: 1; /*evita que se muevan las letras al cambiar el tamaño del navegador*/
+}
+.formu{
+    background-color: rgb(170, 111, 194);
+    border: 2px solid; /*borde del cuadro*/
+    border-radius: 10px; /*esquinas redondeadaas*/
+    padding: 20px; /*espacio interno*/
+    margin: 20px /*altura*/ 0px /*izquierda derecha*/; /*separacion entre cuadros*/
+    width: 600px; /*tambien puedo poner un ancho fijo directamente*/
+    box-shadow: 0 /*nivel de difuminado*/ 4px /*izquierda derecha*/ 8px /*altura*/ rgba(0, 0, 0, 0.616);
+    line-height: 1; /*evita que se muevan las letras al cambiar el tamaño del navegador*/
+}
